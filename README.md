@@ -1,8 +1,8 @@
 ## Compose_Retrofit Introduction
 
-The App Describes the response data is loading from the URL with the ** GET ** Request.
+The App Describes the response data is loading from the URL with the **GET** Request.
 
-The basic ** INTERNET ** permission is added to Load the Data from the URL
+The basic **INTERNET** permission is added to Load the Data from the URL
 
 ```bash
 
