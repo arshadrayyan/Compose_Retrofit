@@ -10,12 +10,16 @@ https://jsonplaceholder.typicode.com/todos/1
 
 ```
 
-Using GET Request
+Using **GET** Request
+
+```bash
 
 interface JsonPlaceholderService {
     @GET("todos/1")
     suspend fun getTodo(): Todo // Todo is a data class representing your JSON structure
 }
+
+```
 
 ## State
 
